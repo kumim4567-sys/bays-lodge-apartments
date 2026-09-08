@@ -1,0 +1,1 @@
+[build]\npublish = "."\n\n[[headers]]\nfor = "/*"\n[headers.values]\nX-Content-Type-Options = "nosniff"\nReferrer-Policy = "strict-origin-when-cross-origin"\nPermissions-Policy = "camera=(), microphone=(), geolocation=()"
